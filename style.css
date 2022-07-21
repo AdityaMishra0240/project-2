@@ -168,12 +168,12 @@
 
    
 
-   .mid-right{
+   .mid-left{
       display: flex;
       flex-direction: column;
    }
 
-   .mid-left{
+   .mid-right{
       height: auto;
    }
 
